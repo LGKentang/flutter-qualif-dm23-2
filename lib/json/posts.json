@@ -1,0 +1,90 @@
+[
+    {
+        "accountName": "Elon Musk",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/elon_musk/posts/1.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Elon Musk",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/elon_musk/posts/3.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Bill Gates",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/bill_gates/posts/1.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Bill Gates",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": null,
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Netflix",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/netflix/posts/1.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Netflix",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/netflix/posts/1.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Paper Rex",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": "assets/images/accounts/paper_rex/posts/1.jpg",
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    },
+    {
+        "accountName": "Paper Rex",
+        "postedAt": "2023-08-15T12:00:00Z",
+        "media": null,
+        "description": "This is a sample post.",
+        "retweets": 10,
+        "likes": 20,
+        "views": 1000,
+        "interactions": 30,
+        "bookmarks": 5
+    }
+]
